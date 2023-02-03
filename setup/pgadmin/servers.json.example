@@ -1,0 +1,12 @@
+{"Servers": {
+        "1": {
+            "Name": "Brif",
+            "Group": "Docker",
+            "Port": portnumber,
+            "Username": "<username>",
+            "Host": "brif_postgres",
+            "SSLMode": "prefer",
+            "MaintenanceDB": "<dbname>"
+        }
+}
+}
